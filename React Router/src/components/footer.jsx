@@ -1,3 +1,8 @@
+import Nav from "./Nav" 
+
 export default function Footer(){
-    return <div>Footer</div>;
-}
+    return(
+         <div id="Footer">
+         <Nav/>
+         </div>
+)}
