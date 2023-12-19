@@ -7,9 +7,6 @@ import Red from "./components/red.jsx";
 import Purple from "./components/Purple";
 import Orange from "./components/Orange";
 import Footer from './components/footer.jsx';
-import "./index.css"
-
-
 
 function App() {
   return (
