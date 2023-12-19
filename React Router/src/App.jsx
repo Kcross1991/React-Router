@@ -20,7 +20,7 @@ function App() {
         <Route path='/blue' element={<Blue/>}></Route>
         <Route path='/red' element={<Red/>}></Route> 
         <Route path='/purple' element={<Purple/>}></Route>
-       <Route path='/orange' element={<Orange/>}></Route>
+        <Route path='/orange' element={<Orange/>}></Route>
         </Routes>
         </div>
         <div>
